@@ -1,0 +1,13 @@
+C:\Users\BUKET\source\repos\ClassApp\ClassApp\bin\Debug\netcoreapp3.1\ClassApp.exe
+C:\Users\BUKET\source\repos\ClassApp\ClassApp\bin\Debug\netcoreapp3.1\ClassApp.deps.json
+C:\Users\BUKET\source\repos\ClassApp\ClassApp\bin\Debug\netcoreapp3.1\ClassApp.runtimeconfig.json
+C:\Users\BUKET\source\repos\ClassApp\ClassApp\bin\Debug\netcoreapp3.1\ClassApp.runtimeconfig.dev.json
+C:\Users\BUKET\source\repos\ClassApp\ClassApp\bin\Debug\netcoreapp3.1\ClassApp.dll
+C:\Users\BUKET\source\repos\ClassApp\ClassApp\bin\Debug\netcoreapp3.1\ClassApp.pdb
+C:\Users\BUKET\source\repos\ClassApp\ClassApp\obj\Debug\netcoreapp3.1\ClassApp.csprojAssemblyReference.cache
+C:\Users\BUKET\source\repos\ClassApp\ClassApp\obj\Debug\netcoreapp3.1\ClassApp.AssemblyInfoInputs.cache
+C:\Users\BUKET\source\repos\ClassApp\ClassApp\obj\Debug\netcoreapp3.1\ClassApp.AssemblyInfo.cs
+C:\Users\BUKET\source\repos\ClassApp\ClassApp\obj\Debug\netcoreapp3.1\ClassApp.csproj.CoreCompileInputs.cache
+C:\Users\BUKET\source\repos\ClassApp\ClassApp\obj\Debug\netcoreapp3.1\ClassApp.dll
+C:\Users\BUKET\source\repos\ClassApp\ClassApp\obj\Debug\netcoreapp3.1\ClassApp.pdb
+C:\Users\BUKET\source\repos\ClassApp\ClassApp\obj\Debug\netcoreapp3.1\ClassApp.genruntimeconfig.cache
